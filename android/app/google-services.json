@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974989328362",
+    "project_id": "sahollat",
+    "storage_bucket": "sahollat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974989328362:android:9e35f9074fcfb593c67c93",
+        "android_client_info": {
+          "package_name": "com.sahulat.bazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974989328362-7lstobiirs8h44vtc4mujl8krktt7b61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBusmQ3dmRys1-mDnzJ86D8po6VbeQ8v-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974989328362-7lstobiirs8h44vtc4mujl8krktt7b61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
